@@ -1,0 +1,20 @@
+{
+  "name": "meu-primeiro-servidor-node",
+  "version": "1.0.0",
+  "description": "prática de node e express - criando meu primeiro servidor com node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhaim-Eliasquevici/meu-primeiro-servidor-node.git"
+  },
+  "keywords": ["node"],
+  "author": "Rhaim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhaim-Eliasquevici/meu-primeiro-servidor-node/issues"
+  },
+  "homepage": "https://github.com/Rhaim-Eliasquevici/meu-primeiro-servidor-node#readme"
+}
