@@ -14,4 +14,4 @@ http.createServer((req, res) => {
         default:
           return res.end(`<h1>NÃO EXISTE ESSA PÁGINA${req.url.toUpperCase().replace(/\/|-/g,' ')}</h1>`)
       }
-    })
+    }) 
